@@ -12,4 +12,5 @@ NextJS for Frontend, NestJS for Backend, Vercel as the Cloud Hosting Site (Its f
 5. Go back to the root and type in the terminal `npm run start:backend`
 6. Open a new terminal and run `npm run start:frontend`
 7. If needed to test you can run `npm run test:backend` and `npm run test:frontend` on the root folder
-8. Enjoy!
+8. Cloudsite for Frontend : frontend-zeta-five-61.vercel.app
+9. Enjoy!
